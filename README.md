@@ -14,10 +14,10 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android/releases/download/3.
 
 安卓使用教程（文档）
 https://github.com/lsfoutlook/shadowrocket01/releases/download/1.5/Android.docx  
-安卓使用教程（视频）  
+安卓使用教程（视频）
 https://github.com/lsfoutlook/shadowrocket01/releases/download/1.5/Android.mp4  
 
-电脑使用教程（文档）  
+电脑使用教程（文档）
 https://github.com/lsfoutlook/shadowrocket01/releases/download/1.5/pc.docx  
 电脑使用教程（视频）
 https://github.com/lsfoutlook/shadowrocket01/releases/download/1.5/PC.mp4  
